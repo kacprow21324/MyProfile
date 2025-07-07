@@ -8,7 +8,7 @@
 > Strona jest aktualnie w przebudowie. Pracuję nad ulepszeniami — wróć wkrótce!
 
 ---
-## 🔎Technologię jakie używam
+## 🔎Technologie jakie używam
 
 - **C**:  
   Programuję niskopoziomowo — systemy wbudowane, mikrokontrolery i komponenty wymagające wysokiej wydajności.  
